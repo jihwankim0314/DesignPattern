@@ -3,8 +3,10 @@
 기존 3가지 분류를 좀 더 세부적으로 구분
 # 01. 생성
 ## 1.인스턴스 생성 관리 관점
-1) Singleton
-2) Prototype
+### 1) Singleton
+- [singleton.md](src%2Fmain%2Fjava%2Forg%2Fdesignpattern%2F_01_creational%2F_1_instance_create_management%2F_1_singleton%2Fsingleton.md)
+### 2) Prototype
+- [prototype.md](src%2Fmain%2Fjava%2Forg%2Fdesignpattern%2F_01_creational%2F_1_instance_create_management%2F_2_prototype%2Fprototype.md)
 ## 2. 유연한 생성 관점
 1) Factory Method
 2) Abstract Factory
