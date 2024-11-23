@@ -1,9 +1,9 @@
-package org.designpattern._03_behavioral._2_internal_behavior._5_visitor_temp.code;
+package org.designpattern._03_behavioral._1_external_communication._7_visitor.code;
 
-public class TextFile implements FileElement {
+public class ImageFile implements FileElement {
     private String name;
 
-    public TextFile(String name) {
+    public ImageFile(String name) {
         this.name = name;
     }
 
